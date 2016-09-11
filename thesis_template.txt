@@ -1,0 +1,71 @@
+<h1>About this LaTeX thesis template</h1>
+  
+<p>
+When you are doing your thesis, you are dreaming of the day you will start to write this manuscript. Is it this day for you? Good! Now the questions are <i>How to write this thesis?</i> and <i>What should it look like?"</i>. To the first question, I would say that currently LaTeX is the "best" solution. To the second one, you can find plenty of LaTeX style over Internet.
+<br/><br/>
+When I tried to find the perfect LaTeX style, I found out that most of LaTeX styles for thesis are just modified (and bugged) versions of the LaTeX book class almost impossible to understand. So, I decided to start from scratch. The book class is pretty nice but, like everybody, I wanted to modify marges, the style of part/chapter/section, etc. I realize that most of these modifications can be done directly using specific well-coded packages instead of modifying the book class. I decided to gather all my modifications in a unique file named <code>style.tex</code>. What I propose is a template and not just a LaTeX style because after compiling it, you will already have an empty version of your thesis. The code is simple, well commented, and can easily be modified without being a LaTeX expert.
+</p>
+
+
+<h1>Download</h1>
+
+<ul>
+  <li><a href="data/thesis_template.zip">Thesis template</a></li>
+  <li><a href="data/thesis_template.pdf">PDF generated using this template</a></li>
+</ul>
+
+
+<h1>What you will find in the template</h1>
+
+<p>
+The LaTeX thesis template contains everything you need to start your thesis: a cover page, the table of content, how to write an equation, how to insert pictures, how to cite a paper, how to use correctly PDF link, list of tables and figures, etc. The main file of this template is the file <code>manuscript.tex</code>. This file include the following files:
+</p>
+
+<ul>
+    <li><code>preambule.tex</code> (define the LaTeX evironment and include basic packages)</li>
+    <li><code>style.tex</code> (modifications of the book class using appropriate packages)</li>
+    <li><code>cover.tex</code> (cover page)</li>
+    <li><code>acknowledgments.tex</code></li>
+    <li><code>introduction.tex</code></li>
+    <li><code>chapter_01.tex</code></li>
+    <li><code>chapter_02.tex</code></li>
+    <li><code>chapter_03.tex</code></li>
+    <li><code>chapter_04.tex</code></li>
+    <li><code>conclusion.tex</code></li>
+    <li><code>annexe_01.tex</code></li>
+    <li><code>annexe_02.tex</code></li>
+</ul>
+
+<p>
+If one does not include the <code>style.tex</code> file in the <code>manuscrit.tex</code> file, the thesis will use the default book class style without any modification. Therefore, one is sure to never break the book class.
+</p>
+
+
+<h1>Compiling the template</h1>
+
+<p>
+You have to choose if you prefer to compile the template using LaTeX or PDFLaTeX (which have to be installed). I would recommand the second option because then you can use PNG, JPEG, and PDF images in your thesis which is very convenient. Using LaTeX, you must use EPS images. Anyway, in the folder <code>figures</code> I provide you all the necessary images to compile the template using LaTeX or PDFLaTeX.
+</p>
+
+<h2>Compiling using PDFLaTeX</h2>
+
+<p>In a terminal, type the following commands:</p>
+
+<pre>
+pdflatex manuscript.tex
+pdflatex manuscript.tex
+bibtex   manuscript.aux
+pdflatex manuscript.tex
+pdflatex manuscript.tex</pre>
+
+<h2>Compiling using LaTeX</h2>
+
+<p>In a terminal, type the following commands:</p>
+
+<pre>
+latex  manuscript.tex
+latex  manuscript.tex
+bibtex manuscript.aux
+latex  manuscript.tex
+latex  manuscript.tex
+</pre>

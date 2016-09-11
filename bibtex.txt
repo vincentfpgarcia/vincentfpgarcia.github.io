@@ -1,0 +1,182 @@
+<pre class="bibtex">
+    
+@ARTICLE{Murphy_2011_TMI,
+  author  = {Keelin Murphy and Bram van Ginneken and Joseph M. Reinhardt and Sven Kabus and Kai Ding and Xiang Deng and Kunlin Cao and Kaifang Du and Gary E. Christensen and Vincent Garcia and Tom Vercauteren and Nicholas Ayache and Olivier Commowick and Gregoire Malandain and Ben Glocker and Nikos Paragios and Nassir Navab and Vladlena Gorbunova and Jon Sporring and Marleen de Bruijne and Xiao Han and Mattias P. Heinrich and Julia A. Schnabel and Mark Jenkinson and Cristian Lorenz and Marc Modat and Jamie R. McClelland and Sebastien Ourselin and Sascha E.A. Muenzing and Max A. Viergever and Dante De Nigris and D. Louis Collins and Tal Arbel and Marta Peroni and Rui Li and Gregory C. Sharp and Alexander Schmidt-Richberg and Jan Ehrhardt and Rene Werner and Dirk Smeets and Dirk Loeckx and Gang Song and Nicholas Tustison and Brian Avants and James C. Gee and Marius Staring and Stefan Klein and Berend C. Stoel and Martin Urschler and Manuel Werlberger and Jef Vandemeulebroucke and Simon Rit and David Sarrut and Josien P.W. Pluim},
+  title   = {Evaluation of Registration Methods on Thoracic CT: The EMPIRE10 Challenge},
+  journal = {IEEE Transactions on Medical Imaging},
+  year    = {2011}
+}
+
+@INPROCEEDINGS{Garcia_2010_EMPIRE10_1,
+  author    = {Vincent Garcia and Olivier Commowick and Gregoire Malandain},
+  title     = {A Robust and Efficient Block Matching Framework for Non Linear Registration of Thoracic {CT} Images},
+  booktitle = {Grand Challenges in Medical Image Analysis (MICCAI workshop)},
+  address   = {Beijing, China},
+  month     = {September},
+  year      = {2010}
+}
+
+@INPROCEEDINGS{Garcia_2010_EMPIRE10_2,
+  author    = {Vincent Garcia and Tom Vercauteren and Gregoire Malandain and Nicholas Ayache},
+  title     = {Diffeomorphic demons and the {EMPIRE10} challenge},
+  booktitle = {Grand Challenges in Medical Image Analysis (MICCAI workshop)},
+  address   = {Beijing, China},
+  month     = {September},
+  year      = {2010}
+}
+
+@ARTICLE{Garcia_2010_SP,
+  author  = {Vincent Garcia and Frank Nielsen},
+  title   = {Simplification and hierarchical representations of mixtures of exponential families},
+  journal = {Signal Processing},
+  volume  = {90},
+  number  = {12},
+  pages   = {3197-3212},
+  year    = {2010}
+}
+
+@INPROCEEDINGS{Garcia_2010_ICIP,
+  author    = {Vincent Garcia and Eric Debreuve and Frank Nielsen and Michel Barlaud},
+  title     = {k-nearest neighbor search: fast {GPU}-based implementations and application to high-dimensional feature matching},
+  booktitle = {IEEE International Conference on Image Processing (ICIP)},
+  address   = {Hong Kong, China},
+  month     = {September},
+  year      = {2010}
+}
+
+@INPROCEEDINGS{Garcia_2010_ICASSP,
+  author    = {Vincent Garcia and Frank Nielsen and Richard Nock},
+  title     = {Hierarchical {G}aussian mixture model},
+  booktitle = {IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)},
+  address   = {Dallas, Texas, USA},
+  month     = {March},
+  year      = {2010}
+}
+
+@INPROCEEDINGS{Garcia_2009_ACCV,
+  author    = {Vincent Garcia and Frank Nielsen and Richard Nock},
+  title     = {Levels of details for {G}aussian mixture models},
+  booktitle = {Asian Conference on Computer Vision (ACCV)},
+  address   = {Xi’ an, China},
+  month     = {September},
+  year      = {2009}
+}
+
+@INPROCEEDINGS{Nielsen_2009_EUSIPCO,
+  author    = {Frank Nielsen and Vincent Garcia and Richard Nock},
+  title     = {Simplifying {G}aussian mixture models via entropic quantization},
+  booktitle = {European Signal Processing Conference (EUSIPCO)},
+  address   = {Glasgow, Scotland},
+  month     = {August},
+  year      = {2009}
+}
+
+@INPROCEEDINGS{Garcia_2009_MIRAGE,
+  author    = {Vincent Garcia and Frank Nielsen},
+  title     = {Searching high-dimensional neighbours: {CPU}-based tailored data-structures versus {GPU}-based brute-force method},
+  booktitle = {International MIRAGE Conference},
+  address   = {Paris, France},
+  month     = {May},
+  year      = {2009}
+}
+
+@INPROCEEDINGS{Garcia_2008_CVGPU,
+  author    = {Vincent Garcia and Eric Debreuve and Michel Barlaud},
+  title     = {Fast k nearest neighbor search using {GPU}},
+  booktitle = {CVPR Workshop on Computer Vision on GPU (CVGPU)},
+  address   = {Anchorage, Alaska, USA},
+  month     = {June},
+  year      = {2008}
+}
+
+@INPROCEEDINGS{Garcia_2007_ICIP,
+  author    = {Vincent Garcia and Sylvain Boltz and Eric Debreuve and Michel Barlaud},
+  title     = {Outer-layer based tracking using entropy as a similarity measure},
+  booktitle = {IEEE International Conference on Image Processing (ICIP)},
+  address   = {San Antonio, Texas, USA},
+  month     = {September},
+  year      = {2007}
+}
+
+@INPROCEEDINGS{Garcia_2007_WIAMIS,
+  author    = {Vincent Garcia and Eric Debreuve and Michel Barlaud},
+  title     = {Tracking based on local motion estimation of spatio-temporally weighted salient points},
+  booktitle = {International Workshop on Image Analysis for Multimedia Interactive Services (WIAMIS)},
+  address   = {Santorini, Greece},
+  month     = {June},
+  year      = {2007}
+}
+
+@INPROCEEDINGS{Garcia_2007_CBMI,
+  author    = {Vincent Garcia and Eric Debreuve and Michel Barlaud},
+  title     = {Region-of-interest tracking based on keypoint trajectories on a group of pictures},
+  booktitle = {IEEE International Workshop on Content-Based Multimedia Indexing (CBMI)},
+  address   = {Bordeaux, France},
+  month     = {June},
+  year      = {2007}
+}
+
+@INPROCEEDINGS{Garcia_2007_GRETSI,
+  author    = {Vincent Garcia and Eric Debreuve and Michel Barlaud},
+  title     = {Méthode de suivi d'objets basée sur des trajectoires temporelles de points d'intérêt},
+  booktitle = {Colloque GRETSI, Groupe d'Etudes du Traitement du Signal et des Images},
+  address   = {Troyes, France},
+  month     = {September},
+  year      = {2007}
+}
+
+@INPROCEEDINGS{Garcia_2006_ICASSP,
+  author    = {Vincent Garcia and Eric Debreuve and Michel Barlaud},
+  title     = {A contour tracking algorithm for rotoscopy},
+  booktitle = {IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)},
+  address   = {Toulouse, France},
+  month     = {May},
+  year      = {2006}
+}
+
+@INPROCEEDINGS{Garcia_2006_SMVP,
+  author    = {Vincent Garcia and Sylvain Boltz and Eric Debreuve and Michel Barlaud},
+  title     = {Contour tracking for rotoscoping based on trajectories of feature points},
+  booktitle = {ECCV Workshop on Statistical Methods in Multi-Image and Video Processing (SMVP)},
+  address   = {Graz, Austria},
+  month     = {May},
+  year      = {2006}
+}
+
+@PHDTHESIS{Garcia_2008_PHD,
+  author  = {Vincent Garcia},
+  title   = {Suivi d'objets d'intérêt dans une séquence d'images : des points saillants aux mesures statistiques},
+  school  = {Université de Nice - Sophia Antipolis},
+  address = {Sophia Antipolis, France},
+  month   = {December},
+  year    = {2008}
+}
+
+@MASTERTHESIS{Garcia_2004_MASTER,
+  author  = {Vincent Garcia},
+  title   = {Estimation de mouvement subpixélique par blocs adaptée à la couleur avec modèle de mouvement},
+  school  = {Université de Nice - Sophia Antipolis},
+  address = {Sophia Antipolis, France},
+  month   = {September},
+  year    = {2004}
+}
+
+@MISC{Nielsen_2009_ARXIV,
+  author       = {Frank Nielsen and Vincent Garcia},
+  title        = {Statistical exponential families: a digest with flash cards},
+  howpublished = {arXiv},
+  month        = {November},
+  year         = {2009},
+  note         = {http://arxiv.org/abs/0911.4863}
+}
+
+@MISC{Garcia_2008_ARXIV,
+  author       = {Vincent Garcia and Eric Debreuve and Michel Barlaud},
+  title        = {Fast k nearest neighbor search using {GPU}},
+  howpublished = {arXiv},
+  month        = {April},
+  year         = {2008},
+  note         = {http://arxiv.org/abs/0804.1448}
+}
+
+</pre>

@@ -1,0 +1,41 @@
+<h1>Title and Jury</h1>
+
+<p>
+I defended my Ph.D. thesis the 11<sup>th</sup> of December 2008 at the <abbr title="Informatique signaux et syst&egrave;mes de Sophia Antipolis">I3S</abbr> laboratory (Universty of Nice - Sophia Antipolis). The title of the thesis is <i>"Suivi d'objets d'intérêt dans une séquence d'images : des points saillants aux mesures statistiques"</i> which translates to <i>Object tracking in video sequences: from salient points to statistical measures</i>. The jury members were:
+</p>
+
+<ul>
+  <li><a href="https://www.labri.fr/projet/AIV/jennybenoispineau.php">Jenny Benois-Pineau</a></li>
+  <li><a href="http://imagine.enpc.fr/~keriven">Renaud Keriven</a></li>
+  <li><a href="http://www.lix.polytechnique.fr/~nielsen">Frank Nielsen</a></li>
+  <li><a href="http://usa.autodesk.com">Luc Robert</a></li>
+  <li><a href="http://www.i3s.unice.fr/~barlaud">Michel Barlaud</a></li>
+  <li><a href="http://www.i3s.unice.fr/~debreuve">Eric Debreuve</a></li>
+</ul>
+
+
+<h1>Downloads</h1>
+
+<ul>
+    <li><a href="data/Garcia_2008_PHD.pdf">Thesis</a></li>
+    <li><a href="data/Garcia_2008_PHD_Slides.pdf">Presentation</a></li>
+</ul>
+
+
+
+<h1>Abstracts</h1>
+
+<h2>English</h2>
+
+<p>
+The problem of object tracking is a problem arising in domains such as computer vision (video surveillance for instance) and cinematographic post-production (special effects). There are two major classes of solution to this problem: region of interest tracking, which indicates a coarse tracking, and space-time segmentation, which corresponds to a precise tracking of the region of interest's contour. In both cases, the region of interest must be selected beforehand on the first, and possibly on the last image of the video sequence. In this thesis, we propose two tracking methods (one of each type). We propose also a fast implementation of an existing tracking method on Graphics Processing Unit (GPU). The first method is based on the analysis of temporal trajectories of salient points and provides a region of interest tracking. Salient points (typically of point of strong curvature of the isointensity lines) are detected in all the images of the sequence. The trajectories are built by matching salient points of consecutive images whose neighbourhoods are coherent. Our first contribution consists in the analysis of the trajectories on a group of pictures, which improves the motion estimation quality. Moreover, we use a space-time weighting for each trajectory which makes it possible to add a temporal constraint on the movement while taking into account the local geometrical deformations of the object ignored by a global motion model. The second method performs a space-time segmentation. The object contour motion is estimated using the information contained in an outer-layer centered on the object contour. Our first contribution is the use of this outer-layer which contains information about both the background and the object in a local context. Moreover, the matching using a statistical similarity measure (residual entropy) allows to improve the tracking while facilitating the choice of the optimal size of the crown. Finally, we propose a fast implementation of an existing tracking method of region of interest. This method relies on the use of a statistical similarity measure: the Kullback-Leibler divergence. This divergence can be estimated in a high dimension space using k-th nearest neighbor distance. These calculations being computationally very expensive, we propose a parallel implementation of the exhaustive search of the k-th nearest neighbors using GPU programming (via the programming interface NVIDIA CUDA). We show that this implementation speeds the tracking process up to a factor 15 compared to a classical implementation of this search using data structuring methods.
+</p>
+
+<h2>French</h2>
+
+<p>
+Le problème du suivi d'objets dans une vidéo se pose dans des domaines tels que la vision par ordinateur (vidéo-surveillance par exemple) et la post-production télévisuelle et cinématographique (effets spéciaux). Il se décline en deux variantes principales : le suivi d'une région d'intérêt, qui désigne un suivi grossier d'objet, et la segmentation spatio-temporelle, qui correspond à un suivi précis des contours de l'objet d'intérêt. Dans les deux cas, la région ou l'objet d'intérêt doivent avoir été préalablement détourés sur la première, et éventuellement la dernière, image de la séquence vidéo. Nous proposons dans cette thèse une méthode pour chacun de ces types de suivi ainsi qu'une implémentation rapide tirant partie du Graphics Processing Unit (GPU) d'une méthode de suivi de régions d'intérêt développée par ailleurs.
+La première méthode repose sur l'analyse de trajectoires temporelles de points saillants et réalise un suivi de régions d'intérêt. Des points saillants (typiquement des lieux de forte courbure des lignes isointensité) sont détectés dans toutes les images de la séquence. Les trajectoires sont construites en liant les points des images successives dont les voisinages sont cohérents. Notre contribution réside premièrement dans l'analyse des trajectoires sur un groupe d'images, ce qui améliore la qualité d'estimation du mouvement. De plus, nous utilisons une pondération spatio-temporelle pour chaque trajectoire qui permet d'ajouter une contrainte temporelle sur le mouvement tout en prenant en compte les déformations géométriques locales de l'objet ignorées par un modèle de mouvement global.
+La seconde méthode réalise une segmentation spatio-temporelle. Elle repose sur l'estimation du mouvement du contour de l'objet en s'appuyant sur l'information contenue dans une couronne qui s'étend de part et d'autre de ce contour. Cette couronne nous renseigne sur le contraste entre le fond et l'objet dans un contexte local. C'est là notre première contribution. De plus, la mise en correspondance par une mesure de similarité statistique, à savoir l'entropie du résiduel, d'une portion de la couronne et d'une zone de l'image suivante dans la séquence permet d'améliorer le suivi tout en facilitant le choix de la taille optimale de la couronne.
+Enfin, nous proposons une implémentation rapide d'une méthode de suivi de régions d'intérêt existante. Cette méthode repose sur l'utilisation d'une mesure de similarité statistique : la divergence de Kullback-Leibler. Cette divergence peut être estimée dans un espace de haute dimension à l'aide de multiples calculs de distances au k-ème plus proche voisin dans cet espace. Ces calculs étant très coûteux, nous proposons une implémentation parallèle sur GPU (grâce à l'interface logiciel CUDA de NVIDIA) de la recherche exhaustive des k plus proches voisins. Nous montrons que cette implémentation permet d'accélérer le suivi des objets, jusqu'à un facteur 15 par rapport à une implémentation de cette recherche nécessitant au préalable une structuration des données.
+</p>

@@ -1,0 +1,112 @@
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700);
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,700);
+
+body
+{
+  font-family: 'Alegreya Sans', sans-serif;
+  font-family: 'Libre Baskerville', serif;
+}
+
+header
+{
+  display: block;
+  width: 800px;
+  margin: 30px auto;
+  text-align: center;
+  /*font-family: 'Libre Baskerville', serif;*/
+  font-size: 2em;
+  font-weight: bold;
+}
+
+nav
+{
+  display: block;
+  width: 800px;
+  margin: 30px auto;
+  text-align: center;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 1em;
+}
+
+main
+{
+  display: block;
+  width: 800px;
+  margin: 10px auto;
+}
+
+footer
+{
+  display: block;
+  margin: 30px auto;
+  font-family : Raleway, sans-serif;
+  font-weight : 400;
+  color: black;
+  font-style: italic;
+  font-size: 12px;
+  text-align: center;
+
+}
+
+nav hr
+{
+  border: 0;
+  border-top: 1px solid #CCCCCC;
+}
+
+nav a:link, a:visited
+{
+  margin: 0 7px;
+  text-decoration: none;
+  color: gray;
+}
+
+nav a:hover
+{
+  color: black;
+}
+
+main h1, h2
+{
+  font-family: 'Libre Baskerville', serif;
+  /*font-family: 'Alegreya Sans', sans-serif;*/
+}
+
+main a, main a:link, main a:visited
+{
+  text-decoration: none;
+  color: blue;
+}
+
+.abstract
+{
+  display: none;
+}
+
+.bibtex
+{
+ white-space: pre-wrap;       /* css-3 */
+ white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+ white-space: -pre-wrap;      /* Opera 4-6 */
+ white-space: -o-pre-wrap;    /* Opera 7 */
+ word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+main ul.cv li
+{
+  margin-bottom: 10px;
+}
+
+main ol.publications li
+{
+  margin-bottom: 20px;
+}
+
+.imageLeft
+ {
+  margin-top: 0px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  float: left;
+}

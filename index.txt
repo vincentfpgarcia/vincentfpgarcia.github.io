@@ -1,0 +1,75 @@
+<h1>Contact & information</h1>
+
+<ul>
+  <li>vgarcia@gopro.com</li>
+  <li><a href="http://www.linkedin.com/in/vincentfpgarcia" class="aLink">LinkedIn</a></li>
+</ul>
+
+
+
+<h1>Experience</h1>
+
+<ul class="cv">
+  <li>
+    <a href="http://www.gopro.com">GoPro</a>, R&D engineer<br/>
+    Image processing, machine learning, deep learning, C++, Python
+  </li>
+  <li>
+    <a href="http://www.stupeflix.com">Stupeflix</a>, R&D engineer<br/>
+    Image processing, machine learning, deep learning, C++, Python
+  </li>
+  <li>
+    <a href="http://www.dxo.com">DxO</a>, Image science engineer<br/>
+    Computational photography, C++, Python, OpenCL
+  </li>
+  <li>
+    <a href="http://5apes.com">Five Apes</a>, Computer scientist<br/>
+    Image processing, Neural networks, C++, OpenCL
+  </li>
+  <li>
+    <a href="https://team.inria.fr/asclepios/">Asclepios INRIA</a>, Research engineer<br/>
+    Medical image registration, C++, Python, ITK
+  </li>
+  <li>
+    <a href="http://www.lix.polytechnique.fr/">Ecole Polytechnique</a>, Postdoc<br/>
+    Mixtures of exponential family, statistics, image segmentation and clustering, Java
+  </li>
+  <li>
+    <a href="http://www.i3s.unice.fr">I3S laboratory</a>, Ph.D. candidate<br/>
+    Video tracking, image processing, kNN, statistics, GPGPU, Matlab, CUDA
+  </li>
+</ul>
+
+
+
+<h1>Open source projects</h1>
+
+<ul>
+    <li><a href="projects.html">kNN CUDA</a>: Fast k nearest neighbor using GPU</li>
+    <li><a href="projects.html">jMEF</a>: Mixture of exponential families</li>
+    <li><a href="projects.html">RPI</a>: Image registration API/framework</li>
+    <li><a href="http://www.mathworks.com/matlabcentral/fileexchange/17894-keypoint-extraction">Matlab keypoint extraction</a></li>
+</ul>
+
+
+
+<h1>Skills</h1>
+
+<ul>
+  <li>Image processing</li>
+  <li>Machine learning: <i>deep learning, random forests, clustering, EM, etc.</i></li>
+  <li>Programming: <i>C/C++, Python, CUDA, OpenCL, Matlab, Java, etc.</i></li>
+  <li>Development tools: <i>Xcode, Visual C++, Qt Creator, CMake</i></li>
+  <li>Operating Systems: <i>MacOS, Windows, Linux</i></li>
+</ul>
+
+
+
+<h1>Education</h1>
+
+<ul>
+    <li>Ph.D., signal and image processing</li>
+    <li>M.Sc., image processing and computer vision</li>
+    <li>M.Sc., computer science</li>
+    <li>B.Sc., applied mathematics</li>
+</ul>
