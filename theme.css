@@ -8,94 +8,72 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
 
-body
-{
-  font-family: 'Alegreya Sans', sans-serif;
-  /*font-family: 'Libre Baskerville', serif;*/
+
+header, nav, main, footer {
+  display: block;
+  max-width: 700px;
+  margin: 30px auto;
+  text-align: center;
 }
 
 header
 {
-  display: block;
-  max-width: 800px;
-  margin: 30px auto;
-  text-align: center;
-  /*font-family: 'Libre Baskerville', serif;*/
   font-family: 'Pacifico', cursive;
-  font-size: 2em;
+  font-size: 35px;
   font-weight: bold;
 }
 
 nav
 {
-  display: block;
-  max-width: 800px;
-  margin: 30px auto;
-  text-align: center;
-  /*font-family: 'Alegreya Sans', sans-serif;*/
   font-family: 'Slabo 27px', serif;
-  font-size: 1.3em;
+  font-size: 20px;
 }
 
 main
 {
-  display: block;
-  max-width: 800px;
   margin: 10px auto;
-/*  font-family: 'Lato', sans-serif;
-  font-family: 'Roboto Condensed', sans-serif;*/
+  font-family: 'Alegreya Sans', sans-serif;
+  text-align: left;
 }
 
 footer
 {
-  display: block;
-  margin: 30px auto;
-  font-family : Raleway, sans-serif;
-  font-weight : 400;
-  color: black;
+  font-family: 'Alegreya Sans', sans-serif;
   font-style: italic;
-  font-size: 12px;
-  text-align: center;
-
-}
-
-nav hr
-{
-  border: 0;
-  border-top: 0px solid #CCCCCC;
+  font-size: 15px;
 }
 
 nav a:link, a:visited
 {
   margin: 0 7px;
   text-decoration: none;
-  color: gray;
   color: #FD3F92;
 }
 
 nav a:hover
 {
-  color: black;
+  color: #ff006f;
 }
 
-main h1, h2
+h1, h2
 {
   margin-top: 30px;
-  /*font-family: 'Libre Baskerville', serif;*/
-  
-  /*font-family: 'Alegreya Sans', sans-serif;*/
 }
 
 @media only screen and (max-width: 767px) {
   h1, h2 {text-align: center;}
 }
 
-/*@media only screen and (max-width:767px){h1,h2,h3{text-align:center}}*/
-
 main a, main a:link, main a:visited
 {
   text-decoration: none;
   color: blue;
+}
+
+main ul li
+{
+  list-style-type: circle;
+  margin-bottom: 10px;
 }
 
 .abstract
@@ -112,12 +90,7 @@ main a, main a:link, main a:visited
  word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
 
-main ul.cv li
-{
-  margin-bottom: 10px;
-}
-
-main ol.publications li
+.publications li
 {
   margin-bottom: 20px;
 }
@@ -129,3 +102,5 @@ main ol.publications li
   margin-bottom: 10px;
   float: left;
 }
+
+

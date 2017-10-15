@@ -3,13 +3,15 @@
 <ul>
   <li>vgarcia@gopro.com</li>
   <li><a href="http://www.linkedin.com/in/vincentfpgarcia" class="aLink">LinkedIn</a></li>
+  <li><a href="https://github.com/vincentfpgarcia" class="aLink">Github</a></li>
+  <li><a href="https://www.flickr.com/photos/garciav/" class="aLink">Flickr</a></li>
 </ul>
 
 
 
 <h1>Experience</h1>
 
-<ul class="cv">
+<ul>
   <li>
     <a href="http://www.gopro.com">GoPro</a>, R&D engineer<br/>
     Image processing, machine learning, deep learning, C++, Python
