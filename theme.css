@@ -1,15 +1,15 @@
-@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:700);
-@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700);
+/*@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:700);
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,700);
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');*/
 
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 @import url('https://fonts.googleapis.com/css?family=Slabo+27px');
-
-@import url('https://fonts.googleapis.com/css?family=Lato');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700);
 
 
-header, nav, main, footer {
+header, nav, main, footer
+{
   display: block;
   max-width: 700px;
   margin: 30px auto;
