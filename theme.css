@@ -61,7 +61,7 @@ h1, h2
 }
 
 @media only screen and (max-width: 767px) {
-  h1, h2 {text-align: center;}
+  h1 {text-align: center;}
 }
 
 main a, main a:link, main a:visited
