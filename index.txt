@@ -13,11 +13,13 @@
 
 <ul>
   <li>
-    <a href="http://www.gopro.com">GoPro</a>, R&D engineer<br/>
-    Image processing, machine learning, deep learning, C++, Python
+    <a href="http://www.gopro.com">GoPro</a>, Principal software engineer<br/>
+    Automatic video editing and video summarization for Quik mobile app.
+    Detection of high level features using machine learning (SVM, random forest, artificial neural networks) and signal processing (image, video, audio, IMU, GPS).
+    C++, Python.
   </li>
   <li>
-    <a href="http://www.stupeflix.com">Stupeflix</a>, R&D engineer<br/>
+    <a href="http://www.stupeflix.com">Stupeflix</a>, Senior sotware engineer<br/>
     Image processing, machine learning, deep learning, C++, Python
   </li>
   <li>
