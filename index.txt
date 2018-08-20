@@ -14,18 +14,19 @@
 <ul>
   <li>
     <a href="http://www.gopro.com">GoPro</a>, Principal software engineer<br/>
-    High level feature detection in photos / videos for automatic video editing in the Quik mobile app.<br/>
-    <!--Photos / Videos -> High level feature detection -> Automatic video editing ->  Quik mobile app.<br/>
-    Automatic video editing for Quik mobile app.<br/>-->
-    Machine learning. Signal processing (image, video, imu, gps). C++. Python.
+    Detection of semantic features for automatic video editing and video summarization in the Quik app.<br/>
+    Machine learning, signal processing (image, video, imu, gps), C++, Python.
   </li>
   <li>
     <a href="http://www.stupeflix.com">Stupeflix</a>, Senior sotware engineer<br/>
-    Image processing, machine learning, deep learning, C++, Python
+    Detection of semantic features for automatic video editing in the Replay app.<br/>
+    Machine learning, signal processing (image, video, gps), C++, Python.
   </li>
   <li>
     <a href="http://www.dxo.com">DxO</a>, Image science engineer<br/>
-    Computational photography, C++, Python, OpenCL
+    Development of image enhancement algorithms for DxO Optics Pro software.<br/>
+    Organizer of the Reading Group.<br/>
+    Image and signal processing, C++, Python, OpenCL.
   </li>
   <li>
     <a href="http://5apes.com">Five Apes</a>, Computer scientist<br/>
