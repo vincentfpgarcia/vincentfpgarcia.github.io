@@ -10,8 +10,8 @@ import fileinput
 import sys
 
 
-title   = ['About', 'Ph.D. Thesis', 'Publications', 'Pojects', 'BibTeX', 'Thesis template']
-content = ['index.txt', 'phd.txt', 'publications.txt', 'projects.txt', 'bibtex.txt', 'thesis_template.txt']
+title   = ['About', 'Ph.D. Thesis', 'Publications', 'Pojects', 'BibTeX', 'Thesis template', 'Experience']
+content = ['index.txt', 'phd.txt', 'publications.txt', 'projects.txt', 'bibtex.txt', 'thesis_template.txt', 'experience.txt']
 
 # title   = ['Publications']
 # content = ['publications.txt']
@@ -35,11 +35,13 @@ content = ['index.txt', 'phd.txt', 'publications.txt', 'projects.txt', 'bibtex.t
 
 for i in range(0, len(title)):
 
+  print 'Processing', content[i]
+
   # Get the text of the considered file
   text = ''
   with open(content[i], 'r') as f:
     text = f.read()
-  print text
+  # print text
 
   # Create and open the output file
   output_path = os.path.splitext(content[i])[0] + '.html'
