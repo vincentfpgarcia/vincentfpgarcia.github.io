@@ -93,4 +93,5 @@
     <li><a href="https://www.coursera.org/account/accomplishments/verify/76AJNMNEB2SY">Neural Networks and Deep Learning</a></li>
     <li><a href="https://www.coursera.org/account/accomplishments/verify/HRCGRGK7KYYR">Structuring Machine Learning Projects</a></li>
     <li><a href="https://www.coursera.org/account/accomplishments/verify/P5RHYWUXVLDD">Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</a></li>
+    <li><a href="https://www.coursera.org/account/accomplishments/records/GPWMJQMQWBUP">Convolutional Neural Networks</a></li>
 </ul>
