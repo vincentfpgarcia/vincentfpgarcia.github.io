@@ -35,7 +35,7 @@ content = ['index.txt', 'phd.txt', 'publications.txt', 'projects.txt', 'bibtex.t
 
 for i in range(0, len(title)):
 
-  print 'Processing', content[i]
+  print('Processing', content[i])
 
   # Get the text of the considered file
   text = ''
