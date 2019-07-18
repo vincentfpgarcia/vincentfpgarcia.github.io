@@ -3,44 +3,43 @@
 <p>This material (namely, the preprints available on this page) is presented to ensure timely dissemination of scholarly and technical work. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works may not be reposted without the explicit permission of the copyright holder.</p>
 
 
-<!--h1>Patents</h1>
+<h1>Patents</h1>
 
 <ol class="publications">
 
+<li>
+Tom Medioni, Vincent Garcia<br/>
+<b>Systems and methods for editing videos based on shakiness measures</b><br/>
+Patent number: 9916863, Date of Patent: 2018-03-13
+</li>
 
 <li>
 Vincent Garcia<br/>
 <b>Systems and methods for horizon identification in an image</b><br/>
-<i>Pending</i>
+Patent number: 10186036, Date of Patent: 2019-01-22
 </li>
 
 <li>
-Vincent Garcia, Maxime Schwab, and François Lagunas<br/>
-<b>Systems and methods to distinguish between features depicted in images</b><br/>
-<i>Pending</i>
-</li>
-
-<li>
-Vincent Garcia, and Tom Médioni<br/>
-<b>Systems and methods for editing videos based on shakiness measures</b><br/>
-<i>Pending</i>
-</li>
-
-<li>
-Vincent Garcia, Tom Medioni, Matthieu Rouif, Gabriel Lema, Francescu Santon<br/>
+Vincent Garcia, Tom Medioni, Matthieu Rouif, Gabriel Lema, Francescu Santoni <br/>
 <b>Systems and methods to detect and correlate user responses to media content</b><br/>
-<i>Pending</i>
+Patent number: 10187690, Date of Patent: 2019-01-22
 </li>
 
+<li>
+Vincent Garcia, Maxime Schwab, Francois Lagunas<br/>
+<b>Systems and methods to distinguish between features depicted in images</b><br/>
+Patent number: 10192143, Date of Patent: 2019-01-29
+</li>
+
+<!--
 <li>
 Vincent Garcia, and Jean Caillé<br/>
 <b>Systems and methods for creating compilations based on hierarchical clustering</b><br/>
 <i>Pending</i>
 </li>
+-->
 
-
-</ol-->
-
+</ol>
 
 
 <h1>Journals</h1>

@@ -4,10 +4,8 @@
   <li>vgarcia@gopro.com</li>
   <li><a href="http://www.linkedin.com/in/vincentfpgarcia" class="aLink">LinkedIn</a></li>
   <li><a href="https://github.com/vincentfpgarcia" class="aLink">Github</a></li>
-  <li><a href="https://fr.mathworks.com/matlabcentral/profile/authors/1072006-vincent-garcia" class="aLink">Mathworks File Exchange</a></li>
   <li><a href="https://www.flickr.com/photos/garciav/" class="aLink">Flickr</a></li>
 </ul>
-
 
 
 <h1>Experience</h1>
@@ -60,7 +58,7 @@
 </ul>
 
 
-
+<!--
 <h1>Open source projects</h1>
 
 <ul>
@@ -69,9 +67,10 @@
     <li><a href="https://github.com/Inria-Asclepios/RPI">RPI</a>: Image registration API/framework</li>
     <li><a href="http://www.mathworks.com/matlabcentral/fileexchange/17894-keypoint-extraction">Matlab keypoint extraction</a></li>
 </ul>
+-->
 
 
-
+<!--
 <h1>Skills</h1>
 
 <ul>
@@ -81,7 +80,7 @@
   <li>Development tools: <i>Xcode, Visual C++, Qt Creator, CMake</i></li>
   <li>Operating Systems: <i>MacOS, Windows, Linux</i></li>
 </ul>
-
+-->
 
 
 <h1>Education</h1>
@@ -92,7 +91,6 @@
     <li>M.Sc., computer science</li>
     <li>B.Sc., applied mathematics</li>
 </ul>
-
 
 
 <h1>Certifications</h1>
