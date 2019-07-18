@@ -10,8 +10,8 @@ import fileinput
 import sys
 
 
-title   = ['About', 'Ph.D. Thesis', 'Publications', 'Pojects', 'BibTeX', 'Thesis template', 'Experience']
-content = ['index.txt', 'phd.txt', 'publications.txt', 'projects.txt', 'bibtex.txt', 'thesis_template.txt', 'experience.txt']
+title   = ['About', 'Ph.D. Thesis', 'Publications', 'Pojects', 'BibTeX', 'Thesis template', 'Experience', 'Open source']
+content = ['index.txt', 'phd.txt', 'publications.txt', 'projects.txt', 'bibtex.txt', 'thesis_template.txt', 'experience.txt', 'open-source.txt']
 
 # title   = ['Publications']
 # content = ['publications.txt']
