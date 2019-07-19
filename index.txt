@@ -38,21 +38,21 @@
   <li>
     <a href="https://team.inria.fr/asclepios/">Asclepios INRIA</a>, Research engineer<br/>
     2009 - 2011<br/>
-    Creation of RPI: open source C++ API for medical image registration<br/>
-    Update legacy registration algorithms / implementations to interface them into ITK<br/>
+    Creation of RPI: Open source C++ API for medical image registration<br/>
+    Update legacy registration algorithms / implementations to interface them with ITK<br/>
     C++, Python, ITK
   </li>
   <li>
     <a href="http://www.lix.polytechnique.fr/">École Polytechnique</a>, Postdoctoral researcher<br/>
     2008 - 2009<br/>
-    Creation of jMEF: open source Java library to create, process and manage mixtures of exponential family<br/>
+    Creation of jMEF: Open source Java library to create, process and manage mixtures of exponential family<br/>
     Mixture models, statistics, image segmentation, clustering, Java
   </li>
   <li>
     <a href="http://www.i3s.unice.fr">I3S laboratory / CNRS</a>, Ph.D. Candidate<br/>
     2004 - 2008<br/>
     Creation of kNN CUDA: open source GPU implementation of k-nearest neighbors algorithms<br/>
-    Application video tracking (rotoscopy) based on keypoints trajectories and statistical measures<br/>
+    Application to video tracking (rotoscopy) based on keypoints trajectories and statistical measures<br/>
     Image processing, NVIDIA CUDA, GPGPU, statistical tools, Kullback-Leibler divergence, Matlab, C
   </li>
 </ul>
