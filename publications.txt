@@ -7,16 +7,23 @@
 
 <ol class="publications">
 
+
 <li>
 Tom Medioni, Vincent Garcia<br/>
-<b>Systems and methods for editing videos based on shakiness measures</b><br/>
-Patent number: 9916863, Date of Patent: 2018-03-13
+<b>Systems and methods for detecting moments within videos</b><br/>
+Patent number: 10403326, Date of Patent: 2019-09-03
 </li>
 
 <li>
-Vincent Garcia<br/>
-<b>Systems and methods for horizon identification in an image</b><br/>
-Patent number: 10186036, Date of Patent: 2019-01-22
+Tom Medioni, Vincent Garcia<br/>
+<b>Systems and methods for identifying speech based on cepstral coefficients and support vector machines</b><br/>
+Patent number: 10403303, Date of Patent: 2019-09-03
+</li>
+
+<li>
+Vincent Garcia, Maxime Schwab, Francois Lagunas<br/>
+<b>Systems and methods to distinguish between features depicted in images</b><br/>
+Patent number: 10192143, Date of Patent: 2019-01-29
 </li>
 
 <li>
@@ -26,9 +33,15 @@ Patent number: 10187690, Date of Patent: 2019-01-22
 </li>
 
 <li>
-Vincent Garcia, Maxime Schwab, Francois Lagunas<br/>
-<b>Systems and methods to distinguish between features depicted in images</b><br/>
-Patent number: 10192143, Date of Patent: 2019-01-29
+Vincent Garcia<br/>
+<b>Systems and methods for horizon identification in an image</b><br/>
+Patent number: 10186036, Date of Patent: 2019-01-22
+</li>
+
+<li>
+Tom Medioni, Vincent Garcia<br/>
+<b>Systems and methods for editing videos based on shakiness measures</b><br/>
+Patent number: 9916863, Date of Patent: 2018-03-13
 </li>
 
 <!--
