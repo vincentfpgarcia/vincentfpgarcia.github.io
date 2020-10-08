@@ -1,7 +1,7 @@
 <h1>Contact & links</h1>
 
 <ul>
-  <li>vgarcia@gopro.com</li>
+  <li>vincent@powder.gg</li>
   <li><a href="http://www.linkedin.com/in/vincentfpgarcia" class="aLink">LinkedIn</a></li>
   <li><a href="https://github.com/vincentfpgarcia" class="aLink">Github</a></li>
   <li><a href="https://www.flickr.com/photos/garciav/" class="aLink">Flickr</a></li>
@@ -12,10 +12,16 @@
 
 <ul>
   <li>
+    <a href="https://powder.gg/">Powder.gg</a>, Senior software engineer<br/>
+    2020 - Present<br/>
+    Creating the TV of the Metaverse using AI/ML<br/>
+    Deep learning, PyTorch, TensorFlow
+  </li>
+  <li>
     <a href="http://www.gopro.com">GoPro</a>, Principal software engineer<br/>
     2016 - 2020<br/>
     Detection of semantic features for automatic video editing and video summarization in the Quik app<br/>
-    Signal processing (image, video, imu, gps), machine learning, deep learning, C++, Python, TensorFlow
+    Signal processing (image, video, imu, gps), machine learning, deep learning, C++, Python, PyTorch, TensorFlow
   </li>
   <li>
     <a href="https://www.linkedin.com/company/stupeflix/about/">Stupeflix</a>, Senior sotware engineer<br/>
