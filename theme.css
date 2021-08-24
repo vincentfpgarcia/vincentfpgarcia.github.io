@@ -48,12 +48,12 @@ nav a:link, a:visited
 {
   margin: 0 10px;
   text-decoration: none;
-  color: #FD3F92;
+  color: #555555; /*#FD3F92;*/
 }
 
 nav a:hover
 {
-  color: #ff006f;
+  color: #000000; /*#ff006f;*/
 }
 
 h1, h2
