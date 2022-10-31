@@ -11,10 +11,10 @@
 
 <ul>
   <li>
-    <a href="https://powder.gg/">Powder.gg</a>, Senior software engineer<br/>
+    <a href="https://powder.gg/">Powder.gg</a>, Lead AI engineer<br/>
     2020 - Present<br/>
     Creating the TV of the Metaverse using AI/ML<br/>
-    Deep learning, PyTorch, TensorFlow
+    Deep learning, PyTorch, AWS, GCP
   </li>
   <li>
     <a href="http://www.gopro.com">GoPro</a>, Principal software engineer<br/>
