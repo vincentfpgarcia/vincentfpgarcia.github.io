@@ -23,7 +23,7 @@
     Signal processing (image, video, imu, gps), machine learning, deep learning, C++, Python, PyTorch, TensorFlow
   </li>
   <li>
-    <a href="https://www.linkedin.com/company/stupeflix/about/">Stupeflix</a>, Senior sotware engineer<br/>
+    <a href="https://www.linkedin.com/company/stupeflix/about/">Stupeflix</a>, Senior software engineer<br/>
     2015 - 2016<br/>
     Detection of semantic features for automatic video editing in the Replay app<br/>
     Image and video processing, machine learning, deep learning, C++, Python, Keras
