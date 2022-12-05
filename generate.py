@@ -5,7 +5,7 @@ import fileinput
 
 
 content = [
-  ['About', 'index.txt'],
+  ['About me', 'index.txt'],
   ['Ph.D. Thesis', 'phd.txt'],
   ['Publications', 'publications.txt'],
   ['BibTeX', 'bibtex.txt'],
