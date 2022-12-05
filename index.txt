@@ -13,8 +13,10 @@
   <li>
     <a href="https://powder.gg/">Powder.gg</a>, Lead AI engineer<br/>
     2020 - Present<br/>
-    Creating the TV of the Metaverse using AI/ML<br/>
-    Deep learning, PyTorch, AWS, GCP
+    Highlights detection from Twitch and Youtube gaming videos.
+    Train and deploy AI/ML models on iOS, GCP and AWS.
+    Manage a team of 8 persons.<br/>
+    Python, Deep learning, PyTorch, Swift, AWS, GCP
   </li>
   <li>
     <a href="http://www.gopro.com">GoPro</a>, Principal software engineer<br/>
