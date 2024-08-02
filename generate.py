@@ -1,8 +1,4 @@
 import os
-import sys
-from shutil import copyfile
-import fileinput
-
 
 content = [
   ['About me', 'index.txt'],
