@@ -14,7 +14,7 @@
     <a href="https://randomwalk.fr/">Random Walk</a>, R&D engineer<br/>
     2024 - Present<br/>
     Building a virtual tutor powered by LLMs to help students get instant, accurate answers and make learning more engaging.<br/>
-    Python, Anthropic
+    Python, LLM, Anthropic Claude
   </li>
   <li>
     <a href="https://powder.gg/">Powder.gg</a>, Lead AI engineer<br/>
