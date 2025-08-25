@@ -14,21 +14,21 @@ body {
     background: #fff;
     max-width: 720px;
     margin: 0 auto;
-    padding: 80px 24px;
+    padding: 64px 24px;
 }
 
 header {
     font-size: 36px;
     font-weight: 300;
-    margin-bottom: 80px;
     text-align: center;
     letter-spacing: 0.04em;
     color: #0a0a0a;
+    margin-bottom: 64px;
 }
 
 nav {
-    margin-bottom: 80px;
     text-align: center;
+    margin-bottom: 64px;
 }
 
 .nav-icon {
@@ -43,12 +43,16 @@ nav {
     fill: currentColor;
 }
 
+main {
+    margin-bottom: 64px;
+}
+
 h1 {
     font-size: 22px;
     font-weight: 500;
-    margin: 64px 0 32px 0;
     color: #2a2a2a;
     letter-spacing: 0.01em;
+    margin: 64px 0 16px 0;
 }
 
 h1:first-child {
@@ -58,41 +62,31 @@ h1:first-child {
 h2 {
     font-size: 20px;
     font-weight: 500;
-    margin: 48px 0 24px 0;
     color: #2a2a2a;
+    margin: 48px 0 24px 0;
 }
 
 ul {
-    list-style: none;
+    list-style-type: "-";
+    padding-left: 20px;
     margin-bottom: 48px;
 }
 
 ol {
-    margin-bottom: 48px;
     padding-left: 20px;
+    margin-bottom: 48px;
 }
 
 li {
-    margin-bottom: 16px;
     line-height: 1.7;
     padding-left: 20px;
     position: relative;
+    margin-bottom: 16px;
 }
-
-/*ol li {
-    padding-left: 0;
-}*/
 
 /* Larger spacing specifically for Experience section */
 .experience-list li {
     margin-bottom: 32px;
-}
-
-ul li:before {
-    content: "-";
-    position: absolute;
-    left: 0;
-    font-size: 20px;
 }
 
 a {
@@ -132,39 +126,26 @@ strong {
 }
 
 footer {
-    margin-top: 100px;
-    padding-top: 24px;
     font-size: 15px;
     text-align: center;
     color: #777;
     font-style: italic;
 }
 
-.abstract
-{
-  display: none;
+.abstract {
+    display: none;
 }
 
-.bibtex
-{
- white-space: pre-wrap;       /* css-3 */
- white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
- white-space: -pre-wrap;      /* Opera 4-6 */
- white-space: -o-pre-wrap;    /* Opera 7 */
- word-wrap: break-word;       /* Internet Explorer 5.5+ */
+.bibtex {
+    white-space: pre-wrap;       /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
 }
 
-.publications li
-{
-  margin-bottom: 20px;
-}
-
-.imageLeft
- {
-  margin-top: 0px;
-  margin-right: 20px;
-  margin-bottom: 10px;
-  float: left;
+.publications li {
+    margin-bottom: 20px;
 }
 
 @media only screen and (max-width: 600px) {
