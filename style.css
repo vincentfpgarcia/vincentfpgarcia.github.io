@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-size: 18px;
+    line-height: 1.7;
+    color: #1a1a1a;
+    background: #fff;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 80px 24px;
+}
+
+header {
+    font-size: 36px;
+    font-weight: 300;
+    margin-bottom: 80px;
+    text-align: center;
+    letter-spacing: 0.04em;
+    color: #0a0a0a;
+}
+
+nav {
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+.nav-icon {
+    width: 16px;
+    height: 16px;
+    stroke: currentColor;
+    fill: none;
+}
+
+.nav-icon[fill="currentColor"] {
+    stroke: none;
+    fill: currentColor;
+}
+
+h1 {
+    font-size: 22px;
+    font-weight: 500;
+    margin: 64px 0 32px 0;
+    color: #2a2a2a;
+    letter-spacing: 0.01em;
+}
+
+h1:first-child {
+    margin-top: 0;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 48px 0 24px 0;
+    color: #2a2a2a;
+}
+
+ul {
+    list-style: none;
+    margin-bottom: 48px;
+}
+
+ol {
+    margin-bottom: 48px;
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 16px;
+    line-height: 1.7;
+    padding-left: 20px;
+    position: relative;
+}
+
+/*ol li {
+    padding-left: 0;
+}*/
+
+/* Larger spacing specifically for Experience section */
+.experience-list li {
+    margin-bottom: 32px;
+}
+
+ul li:before {
+    content: "-";
+    position: absolute;
+    left: 0;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: underline;
+    color: #333;
+}
+
+a:hover {
+    color: #000;
+}
+
+nav a {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    margin: 0 4px 12px 0;
+    padding: 6px 10px;
+    color: #777;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 15px;
+    border: 1px solid #e5e5e5;
+    border-radius: 8px;
+    background: #fff;
+    transition: all 0.2s ease;
+}
+
+nav a:hover {
+    color: #333;
+    border-color: #d0d0d0;
+    background: #fafafa;
+    transform: translateY(-2px);
+}
+
+strong {
+    font-weight: 500;
+}
+
+footer {
+    margin-top: 100px;
+    padding-top: 24px;
+    font-size: 15px;
+    text-align: center;
+    color: #777;
+    font-style: italic;
+}
+
+.abstract
+{
+  display: none;
+}
+
+.bibtex
+{
+ white-space: pre-wrap;       /* css-3 */
+ white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+ white-space: -pre-wrap;      /* Opera 4-6 */
+ white-space: -o-pre-wrap;    /* Opera 7 */
+ word-wrap: break-word;       /* Internet Explorer 5.5+ */
+}
+
+.publications li
+{
+  margin-bottom: 20px;
+}
+
+.imageLeft
+ {
+  margin-top: 0px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  float: left;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        padding: 60px 20px;
+        font-size: 17px;
+    }
+    
+    header {
+        font-size: 32px;
+        margin-bottom: 60px;
+    }
+    
+    nav {
+        margin-bottom: 60px;
+    }
+
+    h1 {
+        font-size: 20px;
+        margin: 48px 0 24px 0;
+        text-align: center;
+    }
+
+    .experience-list li {
+        margin-bottom: 32px;
+    }
+
+    li {
+        margin-bottom: 16px;
+    }
+}
