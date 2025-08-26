@@ -1,4 +1,4 @@
-<h1>Personal profile</h1>
+<h1>Code repositories</h1>
 
 <ul>
     <li><a href="https://github.com/vincentfpgarcia" class="aLink">Github</a></li>
@@ -6,7 +6,7 @@
 </ul>
 
 
-<h1>Lead developer</h1>
+<h1>Personal projects</h1>
 
 <ul>
     <li>
@@ -51,7 +51,7 @@
 </ul>
 
 
-<h1>Contributor</h1>
+<h1>Contributions</h1>
 
 <ul>
     <li>

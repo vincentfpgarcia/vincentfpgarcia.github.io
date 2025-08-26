@@ -63,17 +63,19 @@ h2 {
     font-size: 20px;
     font-weight: 500;
     color: #2a2a2a;
-    margin: 48px 0 24px 0;
+    margin: 24px 0 24px 0;
 }
 
 ul {
     list-style-type: "-";
     padding-left: 20px;
+    margin-top: 24px;
     margin-bottom: 48px;
 }
 
 ol {
     padding-left: 20px;
+    margin-top: 24px;
     margin-bottom: 48px;
 }
 

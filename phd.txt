@@ -1,8 +1,7 @@
 <h1>Title and Jury</h1>
 
 <p>
-I defended my Ph.D. thesis the 11<sup>th</sup> of December 2008 at the <abbr title="Informatique signaux et syst&egrave;mes de Sophia Antipolis">I3S</abbr> laboratory (Universty of Nice - Sophia Antipolis).<br/>
-The title of the thesis is <i>"Suivi d'objets d'intérêt dans une séquence d'images : des points saillants aux mesures statistiques"</i> which translates to <i>"Object tracking in video sequences: from salient points to statistical measures"</i>.<br/>
+I defended my Ph.D. thesis the 11<sup>th</sup> of December 2008 at the <abbr title="Informatique signaux et syst&egrave;mes de Sophia Antipolis">I3S</abbr> laboratory (Universty of Nice - Sophia Antipolis). The title of the thesis is <i>"Suivi d'objets d'intérêt dans une séquence d'images : des points saillants aux mesures statistiques"</i> which translates to <i>"Object tracking in video sequences: from salient points to statistical measures"</i>.<br/><br/>
 The jury members were:
 </p>
 
