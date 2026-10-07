@@ -4,24 +4,21 @@ This privacy policy applies to the Flag Streak app (hereby referred to as "Appli
 
 **Information Collection and Use**
 
-The Application collects information when you download and use it. This information may include information such as
+The Application does not ask you for an account, your name, your email address or your location. Your streaks and best scores are stored on your device only. The Application sends anonymous usage statistics to the analytics service TelemetryDeck (see Third Party Access below). They include:
 
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+*   Events such as when a quiz ends and the streak reached, when a quiz is left, when the share screen is opened, and when the Application is opened from a reminder notification
+*   The device model, the operating system version, the Application version, the language and the time zone
+*   An anonymous identifier created by TelemetryDeck. It is a one-way hash that cannot be traced back to you, your name or your Apple ID, and it is not used to track you across other apps or websites
 
 The Application does not gather precise information about the location of your mobile device.
 
 The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
-
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
-
 **Third Party Access**
 
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+The Application uses TelemetryDeck, a privacy-focused analytics service operated by TelemetryDeck GmbH (Augsburg, Germany), to understand how the Application is used and to improve it. Only anonymous data is sent. TelemetryDeck does not store IP addresses. How TelemetryDeck handles its data is described in its own privacy policy at https://telemetrydeck.com/privacy
+
+The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
 
@@ -51,7 +48,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2026-03-27
+This privacy policy is effective as of 2026-10-07
 
 **Your Consent**
 
